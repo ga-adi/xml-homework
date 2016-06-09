@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movie_collection xmlns:collection="http://movies.com">
+	<movie>
+		android:id="robocop"
+		android:title="RoboCop"
+		android:description="Violent action movies from the 80's."
+		<showtimes>
+			<weekday>
+				android:time="4:00, 7:00, 10:00:
+			</weekday>
+			<weekend>
+				android:time="12:00, 3:00, 6:00, 9:00"
+			</weekend>
+			<holiday>
+				android:time="1:45, 4:45, 7:45, 10:45"
+			</holiday>
+		</showtimes>
+		<imax/>
+		<threed/>
+	</movie>
+	<movie>
+		android:id="robocop2"
+		android:title="RoboCop 2"
+		android:description="Weak sequel."
+		<showtimes>
+			<weekday>
+				android:time="4:10, 7:10, 10:10:
+			</weekday>
+			<weekend>
+				android:time="12:10, 3:10, 6:10, 9:10"
+			</weekend>
+			<holiday>
+				android:time="1:15, 4:15, 7:15, 10:15"
+			</holiday>
+		</showtimes>
+		<imax/>
+		<threed/>
+	</movie>
+	<movie>
+		android:id="robocop3"
+		android:title="RoboCop 3"
+		android:description="Where's Peter Weller.  Flying Robocop?!?!?  Really??"
+		<showtimes>
+			<weekday>
+				android:time="3:00, 5:00, 9:00:
+			</weekday>
+			<weekend>
+				android:time="11:00, 2:00, 5:00, 8:00"
+			</weekend>
+			<holiday>
+				android:time="1:25, 4:25, 7:25, 10:25"
+			</holiday>
+		</showtimes>
+		<imax/>
+		<threed/>
+	</movie>
+	<movie>
+		android:id="robocop2014"
+		android:title="RoboCop 2014"
+		android:description="Bland and missing all the humor from the 1st movie."
+		<showtimes>
+			<weekday>
+				android:time="5:00, 7:00, 9:00:
+			</weekday>
+			<weekend>
+				android:time="10:00, 1:00, 4:00, 7:00"
+			</weekend>
+			<holiday>
+				android:time="1:55, 4:55, 7:55, 10:55"
+			</holiday>
+		</showtimes>
+		<imax/>
+		<threed/>
+	</movie>
+</movie_collection>
